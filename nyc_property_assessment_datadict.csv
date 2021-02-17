@@ -1,0 +1,140 @@
+Name,Description
+PARID,PARID uniquely identifies each assessment record
+BORO,Borough    
+BLOCK,
+LOT,Unique number within BORO/BLOCK
+EASEMENT, 
+SUBIDENT_REUC,
+RECTYPE,Record Type
+YEAR,Four digit year
+IDENT,
+SUBIDENT,
+ROLL_SECTION,
+SECVOL,Section Volume Number (2 Digits each)
+PYMKTLAND,Market Assessed Land Value 
+PYMKTTOT,Market Assessed Total Value 
+PYACTLAND,Actual Assessed Land Value
+PYACTTOT,Actual Assessed Total Value
+PYACTEXTOT,Actual Exemption Total Value
+PYTRNLAND,Transitional Assessed Land Value
+PYTRNTOT,Transitional Assessed Total Value
+PYTRNEXTOT,Transitional Exemption Total Value
+PYTXBTOT,Taxable Assessed Total
+PYTXBEXTOT,Taxable Exemption Total
+PYTAXCLASS,Property Tax Class
+TENMKTLAND,Tentative Market Assessed Land Value 
+TENMKTTOT,Tentative Market Assessed Total Value
+TENACTLAND,Tentative Actual Assessed Land Value
+TENACTTOT,Tentative Actual Assessed Total Value
+TENACTEXTOT,Tentative Actual Exemption Total Value
+TENTRNLAND,Tentative Transitional Assessed Land Value
+TENTRNTOT,Tentative Transitional Assessed Total Value
+TENTRNEXTOT,Tentative Transitional Exemption Total Value
+TENTXBTOT,Tentative Taxable Assessed Total
+TENTXBEXTOT,Tentative Taxable Exemption Total
+TENTAXCLASS,Property Tax Class
+CBNMKTLAND,Change By Notice Market Assessed Land Value
+CBNMKTTOT,Change By Notice Market Assessed Total Value
+CBNACTLAND,Change By Notice Actual Assessed Land Value
+CBNACTTOT,Change By Notice Actual Assessed Total Value
+CBNACTEXTOT,Change By Notice Actual Exemption Total Value
+CBNTRNTLAND,Change By Notice Transitional Assessed Land Value
+CBNTRNTOT,Change By Notice Transitional Assessed Total Value
+CBNTRNEXTOT,Change By Notice Transitional Exemption Total Value
+CBNTXBTOT,Change By Notice Taxable Assessed Total Value
+CBNTXBEXTOT,Change By Notice Taxable Exemption Total Value
+CBNTAXCLASS,Property Tax Class
+FINMKTLAND,Final Market Assessed Land Value
+FINMKTTOT,Final Market Assessed Total Value
+FINACTLAND,Final Actual Assessed Land Value
+FINACTTOT,Final Actual Assessed Total Value
+FINACTEXTOT,Final Actual Exemption Total Value 
+FINTRNLAND,Final Transitional Assessed Land Value
+FINTRNTOT,Final Transitional Assessed Total Value
+FINTRNEXTOT,Final Transitional Exemption Total Value
+FINTXBTOT,Final Taxable Assessed Total Value
+FINTXBEXTOT,Final Taxable Exemption Total Value
+FINTAXCLASS,Property Tax Class
+CURMKTLAND,Current Market Assessed Land Value
+CURMKTTOT,Current Market Assessed Total Value
+CURACTLAND,Current Actual Assessed Land Value
+CURACTTOT,Current Actual Assessed Total Value
+CURACTEXTOT,Current Actual Exemption Total Value
+CURTRNLAND,Current Transitional Assessed Land Value
+CURTRNTOT,Current Transitional Assessed Total Value
+CURTRNEXTOT,Current Transitional Exemption Total Value
+CURTXBTOT,Current Taxable Assessed Total Value
+CURTXBEXTOT,Current Taxable Exemption Total Value
+CURTAXCLASS,Property Tax Class
+PERIOD,
+NEWDROP,Indicates that the lot will be dropped at the end of the fiscal year
+NOAV,A building in progress
+VALREF,The parcel's values are reflected in another lot
+BLDG_CLASS,Building Class
+OWNER,Owner's Name
+ZONING,Zoning code from NYC Department of City Planning
+HOUSENUM_LO,The lowest house number of the property
+HOUSENUM_HI,The highest house number of the property
+STREET_NAME,Street Name for the property
+ZIP_CODE,Postal Zip code for the property
+GEOSUPPORT_RC,Status of the address data verification from Geosupport
+STCODE     ,Street Code 
+LOT_FRT,Lot Frontage in feet
+LOT_DEP,Lot Depth in feet
+LOR_IRREG,Irregular shaped lot
+BLD_FRT,Building Frontage in feet
+BLD_DEP,Building Depth in feet
+BLD_EXT,Extension 
+BLD_STORY,The number of stories/floors for the building  
+CORNER,The code to indicate a corner lot on two streets
+LAND_AREA,Total Land Area
+NUM_BLDG,The Number of Buildings on the property
+YRBUILT,The year the building was constructed
+YRBUILT_RANGE,The last year of the range
+YRBUILT_FLAG,Year Built is an estimate
+YRALT1,Year of alteration
+YRALT1_RANGE,Last year of the alteration
+YRALT2,Year of second alteration
+YRALT2_RANGE,Last year of the second alteration
+COOP_APT, 
+UNITS, 
+REUC_REF,Contains the ident number (alpha/numeric) for REUC properties
+APTNO,Apartment Number for condominium properties
+COOP_NUM,Coop identification number
+CPB_BORO,Borough code
+CPB_DIST,Community planning board number
+APPT_DATE,Date of the most recent apportionment
+APPT_BORO,Apportionment Borough
+APPT_BLOCK,Apportionment Block
+APPT_LOT,Apportionment Lot
+APPT_EASE,Apportionment Easement
+CONDO_Number,Condo identification number
+CONDO_SFX1,
+CONDO_SFX2,Suffix 1 sequence number
+CONDO_SFX3,Not Used
+UAF_LAND,Land percent of common interest in the entire condo
+UAF_BLDG,Building percent of common interest in the condo
+PROTEST_1,Protest code
+PROTEST_2,Indicates a second protest on the property
+PROTEST_OLD,Same codes as the protest indicator
+ATTORNEY_GROUP1,Protest Attorney identification number
+ATTORNEY_GROUP2,Protest Attorney identification number
+ATTORNEY_GROUP_OLD,Protest Attorney identification number
+GROSS_SQFT,Gross Square Footage of the building
+HOTEL_AREA_GROSS,Hotel Area Gross Square Footage
+OFFICE_AREA_GROSS,Office Area Gross Square Footage
+RESIDENTIAL_AREA_GROSS,Residential Area Gross Square Footage
+RETAIL_AREA_GROSS,Retail Area Gross Square Footage
+LOFT_AREA_GROSS,Loft Area Gross Square Footage
+FACTORY_AREA_GROSS,Factory Area Gross Square Footage
+WAREHOUSE_AREA_GROSS,Warehouse Area Gross Square Footage
+STORAGE_AREA_GROSS,Storage Area Gross Square Footage
+GARAGE_AREA,Garage Area Gross Square Footage
+OTHER_AREA_GROSS,Other Area Gross Square Footage
+REUC_DESCRIPTION,REUC Description
+EXTRACTDT,Data extract date
+PYTAXFLAG,Taxable Flag
+TENTAXFLAG,Tentative Taxable Flag
+CBNTAXFLAG,Change By Notice Taxable Flag
+FINTAXFLAG,Final Taxable Flag
+CURTAXFLAG,Current Taxable Flag
