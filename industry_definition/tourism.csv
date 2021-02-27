@@ -1,0 +1,114 @@
+nacis,weight,title,cluster
+721110,1,"Hotels (except Casino Hotels) and Motels	",Lodging
+721120,1,Casino Hotels,Lodging
+721191,1,Bed-and-Breakfast Inns,Lodging
+721199,1,All Other Traveler Accommodation,Lodging
+721211,1,RV (Recreational Vehicle) Parks and Campgrounds,Lodging
+721214,1,Recreational and Vacation Camps (except Campgrounds),Lodging
+721310,0.5,Rooming and Boarding Houses,Lodging
+512131,0.1,Motion Picture Theaters (except Drive-Ins),Recreation
+512132,0.1,Drive-In Motion Picture Theaters,Recreation
+711110,0.3,Theater Companies and Dinner Theaters,Recreation
+711120,0.3,Dance Companies,Recreation
+711130,0.3,Musical Groups and Artists,Recreation
+711190,0.3,Other Performing Arts Companies,Recreation
+711211,0.3,Sports Teams and Clubs,Recreation
+711212,0.3,Racetracks,Recreation
+711219,0.3,Other Spectator Sports,Recreation
+711310,1,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",Recreation
+711320,1,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",Recreation
+711410,1,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",Recreation
+711510,1,"Independent Artists, Writers, and Performers",Recreation
+712110,1,Museums,Recreation
+712120,1,Historical Sites,Recreation
+712130,1,Zoos and Botanical Gardens,Recreation
+712190,1,Nature Parks and Other Similar Institutions,Recreation
+713110,1,Amusement and Theme Parks,Recreation
+713120,1,Amusement Arcades,Recreation
+713210,0.75,Casinos (except Casino Hotels),Recreation
+713290,0.75,Other Gambling Industries,Recreation
+713910,0.25,Golf Courses and Country Clubs,Recreation
+713920,1,Skiing Facilities,Recreation
+713930,0.75,Marinas,Recreation
+713940,0.1,Fitness and Recreational Sports Centers,Recreation
+713950,0.1,Bowling Centers,Recreation
+713990,0.5,All Other Amusement and Recreation Industries,Recreation
+722511,0.2,Full-Service Restaurants*,Food Service
+722513,0.2,Limited-Service Restaurants*,Food Service
+722514,0.2,"Cafeterias, Grill Buffets, and Buffets*",Food Service
+722515,0.2,Snack and Nonalcoholic Beverage Bars*,Food Service
+722310,0.2,Food Service Contractors,Food Service
+722320,0.1,Caterers,Food Service
+722330,0.2,Mobile Food Services,Food Service
+722410,0.2,Drinking Places (Alcoholic Beverages),Food Service
+481111,1,Scheduled Passenger Air Transportation,Transportation
+481211,1,Nonscheduled Chartered Passenger Air Transportation,Transportation
+483112,1,Deep Sea Passenger Transportation,Transportation
+483114,1,Coastal and Great Lakes Passenger Transportation,Transportation
+483212,1,Inland Water Passenger Transportation,Transportation
+485210,1,Interurban and Rural Bus Transportation,Transportation
+485310,0.46,Taxi Service,Transportation
+485320,0.46,Limousine Service,Transportation
+485510,1,Charter Bus Industry,Transportation
+485999,1,All Other Transit and Ground Passenger Transportation,Transportation
+487110,1,"Scenic and Sightseeing Transportation, Land",Transportation
+487210,1,"Scenic and Sightseeing Transportation, Water",Transportation
+487990,1,"Scenic and Sightseeing Transportation, Other",Transportation
+488111,1,Air Traffic Control,Transportation
+488119,1,Other Airport Operations,Transportation
+488490,1,Other Support Activities for Road Transportation,Transportation
+532111,0.8,Passenger Car Rental,Transportation
+532120,0.8,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",Transportation
+561510,1,Travel Agencies,Transportation
+561520,1,Tour Operators,Transportation
+561591,1,Convention and Visitors Bureaus,Transportation
+561599,1,All Other Travel Arrangement and Reservation Services,Transportation
+441210,1,Recreational Vehicle Dealers,Retail and Gasoline Service Stations
+441222,1,Boat Dealers,Retail and Gasoline Service Stations
+447110,0.07,Gasoline Stations with Convenience Stores,Retail and Gasoline Service Stations
+447190,0.07,Other Gasoline Stations,Retail and Gasoline Service Stations
+451110,0.2,Sporting Goods Stores,Retail and Gasoline Service Stations
+453220,0.75,"Gift, Novelty, and Souvenir Stores",Retail and Gasoline Service Stations
+722110,0.2,,
+722211,0.2,,
+722212,0.2,,
+722213,0.2,,
+443142,0.13,"NAICS 443142: Electronics stores	",
+445110,0.13,"NAICS 445110: Supermarkets and Other Grocery Stores	",
+445120,0.13,"NAICS 445120: Convenience Stores	",
+445230,0.13,"NAICS 445230: Fruit and Vegetable Markets	",
+445291,0.13,"NAICS 445291: Baked Goods Stores	",
+445292,0.13,"NAICS 445292: Confectionery and Nut Stores	",
+445299,0.13,"NAICS 445299: All Other Specialty Food Stores	",
+445310,0.13,"NAICS 445310: Beer, Wine, and Liquor Stores	",
+446110,0.13,"NAICS 446110: Pharmacies and Drug Stores	",
+446120,0.13,"NAICS 446120: Cosmetic and Beauty Supply Stores	",
+446130,0.13,"NAICS 446130: Optical Goods Stores	",
+446191,0.13,"NAICS 446191: Food (Health) Supplement Stores	",
+446199,0.13,"NAICS 446199: All Other Health & Personal Care Stores	",
+448110,0.13,"NAICS 448110: Men's Clothing Stores	",
+448120,0.13,"NAICS 448120: Women's Clothing Stores	",
+448130,0.13,"NAICS 448130: Children's and Infants' Clothing Stores	",
+448140,0.13,"NAICS 448140: Family Clothing Stores	",
+448150,0.13,"NAICS 448150: Clothing Accessories Stores	",
+448190,0.13,"NAICS 448190: Other Clothing Stores	",
+448210,0.13,"NAICS 448210: Shoe Stores	",
+448310,0.13,"NAICS 448310: Jewelry Stores	",
+448320,0.13,"NAICS 448320: Luggage and Leather Goods Stores	",
+452210,0.13,"NAICS 452210: Department Stores	",
+452311,0.13,"NAICS 452311: Warehouse Clubs and Supercenters	",
+452319,0.13,"NAICS 452319: All Other General Merchandise Stores	",
+443112,0.13,,
+443120,0.13,,
+443130,0.13,,
+452111,0.13,,
+452112,0.13,,
+452910,0.13,,
+452990,0.13,,
+812111,0.07,"NAICS 812111: Barber Shops	",
+812112,0.07,"NAICS 812112: Beauty Salons	",
+812113,0.07,"NAICS 812113: Nail Salons	",
+812199,0.07,"NAICS 812199: Other Personal Care Services	",
+812320,0.07,"NAICS 812320: Drycleaning and Laundry Services	",
+812922,0.07,"NAICS 812922: One-Hour Photofinishing	",
+812990,0.07,"NAICS 812990: All Other Personal Services	",
