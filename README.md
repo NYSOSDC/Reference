@@ -1,10 +1,19 @@
 # Reference Files
-A collection for reference files
+A collection for reference files.
 
+## Crosswalks
 
+**NYC PUMA to Neighborhood Name**
+[Preview] [Download] 
 
-## New York City
+**County FIPS Code**
+*FIPS code for all the counties in the US.*
+[Preview] [Download] 
 
-- PUMA to Neighborhood Name [Preview] [Download] 
+## Shape Files
 
-![alt text](https://image.flaticon.com/icons/png/128/724/724933.png)
+**New York City PUMA Shapefile**
+
+**New York City Community District Shapefile**
+
+![alt text](https://image.flaticon.com/icons/png/16/724/724933.png)
